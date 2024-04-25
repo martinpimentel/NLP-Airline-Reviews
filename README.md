@@ -1,2 +1,2 @@
 # NLP-Airline-Reviews
-NLP group project on airline reviews
+Group project on airline reviews for NLP subject at ITBA. 
